@@ -33,6 +33,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="40" alt="git logo"  />
@@ -49,7 +51,9 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hoalx30&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1&custom_title=Stats" height="135" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hoalx30&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2&custom_title=Languages" height="135" alt="languages graph"  />
+  </br>
   <img src="https://streak-stats.demolab.com?user=hoalx30&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&date_format=n/j%5B/Y%5D&order=3" height="135" alt="streak graph"  />
+  </br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hoalx30&custom_title=Graph&theme=dracula&radius=15&area=true&hide_border=true&hide_title=false" height="250" alt="activity-graph graph"  />
 </div>
 
